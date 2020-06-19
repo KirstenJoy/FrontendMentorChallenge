@@ -1,0 +1,281 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap');
+body {
+    position: relative;
+    margin: 0px;
+    font-family: "Open Sans", sans-serif;
+    padding: 0px;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.padding {
+    background-image: url("images/bg-hero-desktop.svg");
+    height: 600px;
+}
+
+.imgh {
+    margin-top: 50px;
+    margin-left: 80px;
+}
+
+.img {
+    position: absolute;
+    height: 500px;
+    right: 150px;
+}
+
+.image {
+    position: absolute;
+    right: 60px;
+}
+
+.try {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    margin-top: 40px;
+    right: 80px;
+    color: black;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 5px 10px 15px #888888;
+}
+
+.try:hover {
+    background-color: gainsboro;
+    color: grey;
+}
+
+.htext {
+    position: absolute;
+    text-align: center;
+    left: 150px;
+    top: 210px;
+}
+
+.ptext {
+    position: absolute;
+    text-align: left;
+    top: 270px;
+    left: 150px;
+}
+
+.btn {
+    position: absolute;
+    text-align: center;
+    top: 360px;
+    left: 160px;
+    width: 200px;
+    height: 50px;
+    color: white;
+    border-radius: 25px;
+    background-color: #d11d53;
+    border: none;
+    box-shadow: 5px 10px 15px #888888;
+}
+
+.btn:hover {
+    background-color: #bb1a4a;
+    color: white;
+}
+
+.text2 {
+    margin-top: 100px;
+    padding-top: 10px !important;
+    border: none;
+    padding: 10px;
+    box-shadow: 5px 10px 15px #888888;
+    width: 1500px;
+    height: 480px;
+    position: absolute;
+    left: 200px;
+}
+
+.test2img {
+    position: absolute;
+    right: 50px;
+    width: 500px;
+    height: 400px;
+    margin-top: 25px;
+}
+
+.htext2 {
+    position: absolute;
+    left: 70px;
+    top: 180px;
+}
+
+.ptext2 {
+    position: absolute;
+    left: 70px;
+    top: 230px;
+    text-align: left;
+}
+
+.text3 {
+    margin-top: 650px;
+    padding-top: 10px !important;
+    border: none;
+    padding: 10px;
+    box-shadow: 5px 10px 15px #888888;
+    width: 1500px;
+    height: 480px;
+    position: absolute;
+    left: 200px;
+}
+
+.test3img {
+    position: absolute;
+    left: 50px;
+    width: 500px;
+    height: 400px;
+    margin-top: 25px;
+}
+
+.htext3 {
+    position: absolute;
+    right: 500px;
+    top: 180px;
+}
+
+.ptext3 {
+    position: absolute;
+    right: 210px;
+    top: 230px;
+    text-align: left;
+}
+
+.text4 {
+    margin-top: 1200px;
+    padding-top: 10px !important;
+    border: none;
+    padding: 10px;
+    box-shadow: 5px 10px 15px #888888;
+    width: 1500px;
+    height: 480px;
+    position: absolute;
+    left: 200px;
+}
+
+.text4img {
+    position: absolute;
+    right: 50px;
+    width: 500px;
+    height: 400px;
+    margin-top: 25px;
+}
+
+.htext4 {
+    position: absolute;
+    left: 70px;
+    top: 180px;
+}
+
+.ptext4 {
+    position: absolute;
+    left: 70px;
+    top: 230px;
+    text-align: left;
+}
+
+.footerbtn {
+    margin-top: 1750px;
+    padding-top: 10px !important;
+    border: none;
+    padding: 10px;
+    box-shadow: 5px 10px 15px #888888 !important;
+    width: 900px;
+    height: 150px;
+    position: absolute;
+    left: 500px;
+    border-radius: 10px;
+    z-index: 1;
+    background-color: whitesmoke;
+}
+
+.hfooterb {
+    text-align: center;
+}
+
+.footerb {
+    text-align: center;
+    position: absolute;
+    left: 300px;
+    width: 310px;
+    height: 50px;
+    color: white;
+    border-radius: 25px;
+    background-color: #d11d53;
+    border: none;
+    box-shadow: 5px 10px 15px #888888;
+}
+
+.footerb:hover {
+    background-color: #bb1a4a;
+    color: white;
+}
+
+.foots {
+    margin-top: 1850px;
+    width: 98%;
+    background-color: hsl(192, 100%, 9%);
+    height: 400px;
+    padding: 1%;
+    padding-top: 9%;
+    color: white;
+}
+
+.leftf {
+    color: white;
+    position: absolute;
+    left: 80px;
+}
+
+.imglf {
+    position: absolute;
+}
+
+.leftl {
+    text-align: left;
+    margin-top: 55px;
+}
+
+.midf {
+    font-size: 25px;
+}
+
+.midt {
+    position: absolute;
+    left: 700px;
+    margin-top: -60px;
+    border-spacing: 80px;
+}
+
+.mid1 {
+    border-spacing: 150px;
+}
+
+.rightf {
+    position: absolute;
+    right: 200px;
+    margin-top: 110px;
+}
+
+.righti {
+    width: 100px;
+    height: 100px;
+}
+
+.copy {
+    position: absolute;
+    text-align: center;
+    margin-top: 350px;
+    left: 650px;
+}
+
+.front {
+    text-decoration: none;
+    color: white;
+}
