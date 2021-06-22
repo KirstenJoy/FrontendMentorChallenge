@@ -87,29 +87,29 @@ p {
     border: none;
     padding: 10px;
     box-shadow: 5px 10px 15px #888888;
-    width: 1000px;
+    width: 1500px;
     height: 480px;
     position: absolute;
-    left: 100px;
+    left: 200px;
 }
 
 .test2img {
     position: absolute;
     right: 50px;
-    width: 300px;
-    height: 300px;
-    margin-top: 45px;
+    width: 500px;
+    height: 400px;
+    margin-top: 25px;
 }
 
 .htext2 {
     position: absolute;
-    left: 150px;
+    left: 70px;
     top: 180px;
 }
 
 .ptext2 {
     position: absolute;
-    left: 150px;
+    left: 70px;
     top: 230px;
     text-align: left;
 }
@@ -120,30 +120,30 @@ p {
     border: none;
     padding: 10px;
     box-shadow: 5px 10px 15px #888888;
-    width: 1000px;
+    width: 1500px;
     height: 480px;
     position: absolute;
-    left: 100px;
+    left: 200px;
 }
 
 .test3img {
     position: absolute;
     left: 50px;
-    width: 300px;
-    height: 300px;
-    margin-top: 65px;
+    width: 500px;
+    height: 400px;
+    margin-top: 25px;
 }
 
 .htext3 {
     position: absolute;
-    right: 400px;
-    top: 150px;
+    right: 500px;
+    top: 180px;
 }
 
 .ptext3 {
     position: absolute;
-    right: 105px;
-    top: 200px;
+    right: 210px;
+    top: 230px;
     text-align: left;
 }
 
@@ -153,18 +153,18 @@ p {
     border: none;
     padding: 10px;
     box-shadow: 5px 10px 15px #888888;
-    width: 1000px;
+    width: 1500px;
     height: 480px;
     position: absolute;
-    left: 100px;
+    left: 200px;
 }
 
 .text4img {
     position: absolute;
     right: 50px;
-    width: 300px;
-    height: 300px;
-    margin-top: 55px;
+    width: 500px;
+    height: 400px;
+    margin-top: 25px;
 }
 
 .htext4 {
@@ -186,10 +186,10 @@ p {
     border: none;
     padding: 10px;
     box-shadow: 5px 10px 15px #888888 !important;
-    width: 800px;
+    width: 900px;
     height: 150px;
     position: absolute;
-    left: 200px;
+    left: 500px;
     border-radius: 10px;
     z-index: 1;
     background-color: whitesmoke;
@@ -259,8 +259,8 @@ p {
 
 .rightf {
     position: absolute;
-    right: 560px;
-    margin-top: 190px;
+    right: 200px;
+    margin-top: 110px;
 }
 
 .righti {
@@ -278,4 +278,4 @@ p {
 .front {
     text-decoration: none;
     color: white;
-}
+} 
